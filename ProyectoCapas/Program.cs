@@ -5,6 +5,7 @@ namespace ProyectoCapas
 {
     class Program
     {
+		//Inicia programa
         static void Main(string[] args)
         {
             var dbKind = Logica.SeleccionarDB();
